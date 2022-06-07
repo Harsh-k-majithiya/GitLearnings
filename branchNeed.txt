@@ -1,9 +1,16 @@
 why we need branches?
 	~ when we create or make new feature or changes in project we should create new branch.
+<<<<<<< HEAD
 	
+=======
+
+>>>>>>> classyFeatures
 	~ we should never commit on main branch.
 
 	~ HEAD points to current branch.
 
 	~ main branch is the branch which is used by community (like if i download react repo the main branch code i will 	    be getting).that is why we should not make changes in main branch.
+<<<<<<< HEAD
 
+=======
+>>>>>>> classyFeatures
